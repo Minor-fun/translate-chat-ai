@@ -1,0 +1,27 @@
+{
+  "name": "translate-chat-ai",
+  "version": "1.0.0",
+  "description": "Translates incoming and outgoing messages to another language using AI models.",
+  "main": "src/index.js",
+  "author": "hyacinth/hsdn/Pravv/HakuryuuDom/teralove",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minor-fun/translate-chat-ai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Minor-fun/translate-chat-ai/issues"
+  },
+  "homepage": "https://github.com/Minor-fun/translate-chat-ai#readme"
+}

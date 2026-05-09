@@ -1,0 +1,14 @@
+{
+    "name": "translate-chat-ai",
+    "author": "hyacinth",
+    "version": "05/09/2026",
+    "description": "Translates incoming and outgoing messages to another language using AI models.",
+    "options": {
+        "niceName": "translate-chat-ai",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "src/setting_migration.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/minor-fun/translate-chat-ai/master/"],
+    "disableAutoUpdate": false
+}

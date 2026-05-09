@@ -1,0 +1,30 @@
+{
+    "files": {
+        "README-zh.md": "9076691f85677ff55697eed4e327910c4e991bb34cf4098680e7b233f949d15c",
+        "README.md": "21a9df2362d1e59c0f5e0842e443f9256c7310fda36bc68b7841be3ab4bedebe",
+        "lib/language-detector/index.js": "b0e52b0ed41f5c8e1ad601be66c160d741e7f2b99e50c5e3c5edff51b4f3623c",
+        "lib/language-detector/lib/LanguageDetect.js": "6cd52580ad3c31b599fac78cd0ea9be0ea6c2ff439c90e9e19aa355a28a83ff0",
+        "lib/language-detector/lib/eld.js": "58cd8d4a777a8cd1744b5ce89b96d2b34e088ea5fca93b03d09039475a4c3e36",
+        "lib/language-detector/package.json": "dd8f05fd93abf1312ab5dc0e0447987b607f63f454bbf969f8637c4a0b09172c",
+        "module.json": "2fdacdf43df5415558159e527bbc85231b9a0cbb1f556f6a233b9a8ce5b86dea",
+        "package.json": "aebfd597f067a34da5dcf636bbb5cfdee8aa70eec7aa7049fe5cfa60d1c8fa14",
+        "src/command.js": "0959a282f30f0a58423dab710f00d50d71b8b6e4f058650dabca3b0913a4af67",
+        "src/core/chat-hooks.js": "77c7c47351fdbe35e70209d3e94be06308818ccb0c681ade2d6dead1124c6086",
+        "src/core/translation-service.js": "1ff0007a0441d0f70ff301ba7731d3761481d601e8d902d62e20d556aeab5c25",
+        "src/gui.js": "39ec6a04b145c10b83a1864af4b274c5538ec291b7116b90c44ed60cc85845d7",
+        "src/index.js": "0a37b20742f348647a69b7f0e97e854b6256065132edcf48ce3e6dea7c6fe43c",
+        "src/lang/de.json": "c9d91fe94534953b08a490fb82ef01ddc33415363349d219ab21de532ba0e833",
+        "src/lang/en.json": "a66d68628e40df7e36ae2e10aa113f501acae21bc2228a3a151fb0fbe234d53b",
+        "src/lang/es.json": "0359369f1a663957975f08aa152b75f44f8057394d6c351a17f0fa07201de936",
+        "src/lang/fr.json": "3b7f2f5e33266d86d37fcb62d9bde17b09eaaeef23ba268ac0c7c74fc911e1f9",
+        "src/lang/ru.json": "698c5b5ee0cc17a6281f720fc60e9ac28fc7c00604481f698bd0d32dd33bec97",
+        "src/lang/zh-TW.json": "4e41c96dd442c23f429dfe6eefa6a2e7da88cc85bbd63e34e8ffc21ae27f2f42",
+        "src/lang/zh.json": "087bdf33f0fed5cc1f83f2091bf599c81e2ddca77819575f814bd3c10b3004f6",
+        "src/managers/cache-manager.js": "2c916bef0b3bd8d1d3bc50485c277da9eb8e85ec85558738ad9c1a7127539c16",
+        "src/managers/endpoint-manager.js": "783916c703e651a53471cc1908626b1d96f70ce9fab3301390a8c36524dfc440",
+        "src/managers/i18n-manager.js": "5247148c980c39d5e1788ee9826a90ea6a66bfff12541b776ffd1cc1a6783d71",
+        "src/setting_migration.js": "72f5d889fb820f7348b112eb430a39e9c34cf7652e20fcabd68575f3aa0fb53e",
+        "src/utils/error-handler.js": "8da217747fd43c21ce66fa1b5354ccd85ef91d536a9450bf88c738f75eb340c9",
+        "src/utils/normalize.js": "54eb83ca3e15898f72091ba6bac1c8067972a2c03145ff72647de362175d9efa"
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "languagedetect",
+  "description": "Language detection wrapper using Efficient Language Detector (ELD)",
+  "keywords": ["language", "language detection", "eld", "efficient-language-detector", "iso639-1"],
+  "version": "1.2.0",
+  "homepage": "https://github.com/nitotm/efficient-language-detector-js",
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://fgribreau.com)",
+  "contributors": [
+    "Ruslan Zavackiy <ruslan.zavackiy@gmail.com> (http://zavackiy.com)"
+  ],
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitotm/efficient-language-detector-js.git"
+  },
+  "license": "MIT AND Apache-2.0",
+  "scripts": {
+    "test": "node_modules/nodeunit/bin/nodeunit test/*.test.js"
+  },
+  "devDependencies": {
+    "nodeunit": ">= 0.5.1"
+  },
+  "engines": {
+    "node": ">= 0.4.8"
+  }
+}
